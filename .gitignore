@@ -1,0 +1,17 @@
+.idea
+.vscode
+*.npy
+*.dat
+*.pyc
+face_image
+face_type1
+face_type2
+face_type3
+genki4k
+model_adam
+model_origin
+model_sgd
+model_v2
+model_v2_imbalanced
+result
+ROC_curve_model_2
